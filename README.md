@@ -1,6 +1,6 @@
 # Distributed Camera Node Tracking System
 
-📖 **Full documentation/tutorial:** https://mekhyw.github.io/Distributed-Camera-Node-Tracking-System/
+📖 **Full documentation/tutorial:** [https://mekhyw.github.io/Distributed-Camera-Node-Tracking-System/](https://mrrox1337.github.io/Distributed-Camera-Node-Tracking-System/)
 
 https://github.com/user-attachments/assets/d666da68-4de4-413b-ad2b-b3b17028fe75
 
